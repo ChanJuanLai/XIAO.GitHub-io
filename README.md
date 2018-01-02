@@ -1,2 +1,0 @@
-# XIAO.GitHub-io
-homework
